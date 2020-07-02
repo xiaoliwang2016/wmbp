@@ -1,0 +1,17 @@
+[
+    {"DeviceCode":1,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"100米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":2,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"200米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":3,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"300米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":1,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"100米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":2,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"200米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":3,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"300米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":1,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"100米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":2,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"200米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":3,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"300米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":1,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"100米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":2,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"200米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":3,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"300米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":1,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"100米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":2,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"200米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"},
+    {"DeviceCode":3,"DeviceTypeID":"T3001","EQUBoxName":"车辆检测器","Location":"300米处","EUQType":"车辆检测器","IPAddress":"192.168.1.1","SiteName":"车辆检测器"}
+]
